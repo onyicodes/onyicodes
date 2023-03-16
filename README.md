@@ -23,7 +23,7 @@
 I am a Full Stack mobile app developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 3 years experience in mobile app development using flutter. 
 
 - :telescope: I’m currently developing mobile applications using flutter.
-
+- 🦾: I’m currently contributing to AppFlowy an open source version of Notion.
 - :seedling: Currently exploring backend development using python flask.
 
 - :zap: In my free time, I solve algorithm and data structure problems, contribute to open source, read tech articles and write mobile app development tutorials.
