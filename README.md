@@ -20,7 +20,7 @@
 
 </div>
   
-I am a Full Stack mobile app developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 3 years experience in mobile app development using flutter. 
+I am a hobbyist mobile app developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 3 years experience in mobile app development using flutter. 
 
 - :telescope: I’m currently developing mobile applications using flutter.
 - 🦾: I’m currently contributing to AppFlowy an open source version of Notion.
